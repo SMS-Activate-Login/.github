@@ -46,6 +46,10 @@
 ---
 
 ## ⚡ Popular Services & Use Cases
+<br>
+  <div align="center">
+  <img src="/images/sms-activate-image.png" alt="Интерфейс SMS Activate" width="100%">
+</div>
 
 ### SMS Activate Login Alternative
 Looking for a reliable way to verify accounts? Hero-SMS provides:
