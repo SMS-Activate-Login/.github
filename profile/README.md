@@ -46,9 +46,9 @@
 ---
 
 ## ⚡ Popular Services & Use Cases
-<br>
+
   <div align="center">
-  <img src="/images/sms-activate-image.png" alt="Интерфейс SMS Activate" width="100%">
+  <img src="/images/hero-sms-image.png" alt="Интерфейс Hero SMS" width="100%">
 </div>
 
 ### SMS Activate Login Alternative
