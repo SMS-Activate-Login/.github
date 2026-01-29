@@ -3,7 +3,7 @@
 <meta name="author" content="Hero-SMS Team">
 
 # SMS Activate Login – Quick Access to Virtual Phone Numbers for SMS Verification
-SMS-Activate will no longer be available starting December 29.
+The SMS-Activate service will cease operations on December 29th, so we're sharing some important information.
 <br><br>
 <a href="https://hero-sms.com" target="_blank">
     <img src="https://img.shields.io/badge/Official%20Website-blue?style=for-the-badge" alt="Official Website">
