@@ -4,7 +4,7 @@
 
 # SMS Activate – Login website
 <a href="https://hero-sms.com" target="_blank">
-    <img src="https://img.shields.io/badge/Current%20Website-blue?style=for-the-badge" alt="Current Website">
+    <img src="https://img.shields.io/badge/Official%20Website-blue?style=for-the-badge" alt="Official Website">
   </a>
   <br>
    <a href="https://hero-sms.com" target="_blank">
