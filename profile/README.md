@@ -24,7 +24,7 @@
 | **Service Links** |
 |---|
 | [SMS-Activate Website](https://hero-sms.com) |
-| [Login to Account](https://hero-sms.com) |
+| [Login to SMS Activate Account](https://hero-sms.com) |
 | [Affiliate Program](https://hero-sms.com/affiliate-program/developers) |
 | [API Documentation](https://hero-sms.com/api) |
 | [Loyalty Program](https://hero-sms.com/loyalty-program) |
