@@ -2,13 +2,13 @@
 <meta name="keywords" content="sms activate, sms activate login, sms activate alternative, sms activate services, hero sms, temporary phone numbers">
 <meta name="author" content="Hero-SMS Team">
 
-# SMS Activate – Login website
+# SMS Activate Login – Quick Access to Virtual Phone Numbers for SMS Verification
 <a href="https://hero-sms.com" target="_blank">
     <img src="https://img.shields.io/badge/Official%20Website-blue?style=for-the-badge" alt="Official Website">
   </a>
   <br>
    <a href="https://hero-sms.com" target="_blank">
-    <img src="https://img.shields.io/badge/Login-orange?style=for-the-badge" alt="Login">
+    <img src="https://img.shields.io/badge/Login%20Now-orange?style=for-the-badge" alt="Login Now">
   </a>
   <br>
  <a href="https://hero-sms.com" target="_blank">
